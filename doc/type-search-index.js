@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"agenda","l":"Agenda"},{"p":"eccezioni","l":"AgendaException"},{"p":"agende","l":"Agende"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"appuntamento","l":"Appuntamento"},{"p":"eccezioni","l":"AppuntamentoException"}];updateSearchResults();
